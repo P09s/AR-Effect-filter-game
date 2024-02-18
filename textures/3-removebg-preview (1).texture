@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "3-removebg-preview (1)",
+  "identifier": "texture:90983-a7f2ffba-688d-4af4-aca4-4c9ea28e4608",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "f46b5dc99107171a084fd464f74da4e9",
+  "assetLocator": "textures/3-removebg-preview (1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 500,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 500,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "f46b5dc99107171a084fd464f74da4e9",
+      "colorCount": 27502,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.8261833398586873,
+      "pixelsHigh": 500,
+      "pixelsWide": 500
+    }
+  ]
+}
