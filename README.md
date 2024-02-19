@@ -18,17 +18,17 @@ AR filter created in meta spark studio by the use of following topics
 
 ### Patch Editor :
 
-a) Screen tap
+ a) Screen tap
 
-b) Switch
+ b) Switch
 
-c) Loop Animation
+ c) Loop Animation
 
-d) Random(Randomize)
+ d) Random(Randomize)
 
-e) Pulse 
+ e) Pulse 
 
-f) Not
+ f) Not
 
 ### Concept:
 
